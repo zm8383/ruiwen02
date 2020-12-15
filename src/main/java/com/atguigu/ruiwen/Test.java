@@ -5,5 +5,6 @@ public class Test {
         System.out.println("Hello");
         System.out.println("你好");
         System.out.println("瑞雯");
+        System.out.println("断剑重铸之日");
     }
 }
